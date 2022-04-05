@@ -1,7 +1,0 @@
-cmake-build-debug/
-cmake-build-debug-coverage/
-.vscode/
-CMakeLists.txt
-README.md
-VIM.txt
-.gitignore

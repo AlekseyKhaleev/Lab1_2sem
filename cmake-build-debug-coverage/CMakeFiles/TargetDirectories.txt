@@ -1,3 +1,0 @@
-/home/kristofer/Lab1/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
-/home/kristofer/Lab1/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
-/home/kristofer/Lab1/cmake-build-debug-coverage/CMakeFiles/Lab1.dir
