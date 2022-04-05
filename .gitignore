@@ -1,0 +1,5 @@
+**/cmake-build-debug
+**/cmake-build-debug-coverage
+/CMakeLists.txt
+/README.md
+/VIM.txt
